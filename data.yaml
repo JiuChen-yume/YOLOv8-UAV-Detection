@@ -1,0 +1,18 @@
+path: ../datasets/1000  # 数据集路径
+train: train/images  # 训练集图像路径
+val: val/images  # 验证集图像路径
+test: test/images  # 测试集图像路径
+
+# Classes
+names:
+  0: pedestrian
+  1: people
+  2: bicycle
+  3: car
+  4: van
+  5: truck
+  6: tricycle
+  7: awning-tricycle
+  8: bus
+  9: motor
+
